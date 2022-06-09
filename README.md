@@ -10,15 +10,12 @@
 
 # 算法书库
 
-| 推荐系统     | ![img](https://q7w8vltyes.feishu.cn/space/api/box/stream/download/asynccode/?code=ZGM1MDQ5NmM0YWMwOTRlMzY1NTk4ZmI0ODYwNmYyYTBfQ3NCOXhjaU1zQUt1RWU3aFB3c1ZsNk9uNENIUnFyRlhfVG9rZW46Ym94Y25xc0pRODI2YW5wYkF4b3RheW5qbVhiXzE2NTQ3OTUyMzM6MTY1NDc5ODgzM19WNA) | [《深度学习推荐系统》](https://book.douban.com/subject/35013197) | 9.3  | 王喆                            | 电子工业出版社 | PDF：暂时无法在文档外展示此内容 |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------- | -------------- | ------------------------------- |
-|              | ![img](https://q7w8vltyes.feishu.cn/space/api/box/stream/download/asynccode/?code=MzIyNGNjMjY5MzM3Y2E3YmYzMjQyYzljOGZkZTdhMzdfRFBPMXBPSEVacGhPYWNadW8wcXJjNWpKNGVrVGs3MGZfVG9rZW46Ym94Y25yOXlSM3JsTzJzR29uc2lrMXhDM0NnXzE2NTQ3OTUyMzM6MTY1NDc5ODgzM19WNA) | [《推荐系统实践》](https://book.douban.com/subject/10769749/) | 8.1  | 项亮                            | 人民邮电出版社 |                                 |
-| 自然语言处理 | ![img](https://q7w8vltyes.feishu.cn/space/api/box/stream/download/asynccode/?code=YjU0MjZkYzhmZmQ2NGExZDJiNWFlZjc0MWY4ODk0YzRfQm1raTRPUjg3SmlYNXNSSEJ5T0VhUWFhY2dHUDFxMmVfVG9rZW46Ym94Y240YTN0MUE5QXNhMEpESG5mY00zVEloXzE2NTQ3OTUyMzM6MTY1NDc5ODgzM19WNA) | [《自然语言处理实战》](https://book.douban.com/subject/35197669/) | 7.7  | [美] 霍布森•莱恩（Hobson Lane） | 人民邮电出版社 |                                 |
-|              |                                                              |                                                              |      |                                 |                |                                 |
-
-
-
-
+| 领域         | 书封                                                         | 书名（豆瓣链接）                                             | 豆瓣评分 | 作者                            | 出版社         | 资源                                                         |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ------------------------------- | -------------- | ------------------------------------------------------------ |
+| 推荐系统     | ![img](https://q7w8vltyes.feishu.cn/space/api/box/stream/download/asynccode/?code=YmNmNWE0MjQ5YmQ1YWVkMjE3OWM1ZjA5OGVmYWQyODFfblZhbUh3QnpUajc4Z1JsY3RLWGQyZFZVZ3RNdDM3T0ZfVG9rZW46Ym94Y25xc0pRODI2YW5wYkF4b3RheW5qbVhiXzE2NTQ3OTU1MzE6MTY1NDc5OTEzMV9WNA) | [《深度学习推荐系统》](https://book.douban.com/subject/35013197) | 9.3      | 王喆                            | 电子工业出版社 | [深度学习推荐系统.pdf](learning_materials/深度学习推荐系统.pdf) |
+|              | ![img](https://q7w8vltyes.feishu.cn/space/api/box/stream/download/asynccode/?code=MDQ4NWQ1OWMwYTkzMzhhODNkNjJjYzdiMWRlZTgyYzRfZm1IUjZIUDZGd2Jib0QzMEhiZ3RYc0JpRVZvMGRUTWhfVG9rZW46Ym94Y25yOXlSM3JsTzJzR29uc2lrMXhDM0NnXzE2NTQ3OTU1MzE6MTY1NDc5OTEzMV9WNA) | [《推荐系统实践》](https://book.douban.com/subject/10769749/) | 8.1      | 项亮                            | 人民邮电出版社 |                                                              |
+| 自然语言处理 | ![img](https://q7w8vltyes.feishu.cn/space/api/box/stream/download/asynccode/?code=YzkyM2QzZDFmYTYyODk1OThiM2QyYjhmYmVmZTY3MDRfN0dmeUw3ZWN2TFBocUNzTjRyZ3dEVGNPVE9PbUZWdFZfVG9rZW46Ym94Y240YTN0MUE5QXNhMEpESG5mY00zVEloXzE2NTQ3OTU1MzE6MTY1NDc5OTEzMV9WNA) | [《自然语言处理实战》](https://book.douban.com/subject/35197669/) | 7.7      | [美] 霍布森•莱恩（Hobson Lane） | 人民邮电出版社 |                                                              |
+|              |                                                              |                                                              |          |                                 |                |                                                              |
 
 # 互联网行业实践/论文分享
 
